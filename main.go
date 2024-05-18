@@ -35,7 +35,7 @@ func main() {
 				log.Printf("unable to get status: %v", err)
 				return
 			}
-			if data == "foo" {
+			if data == "1" {
 				fmt.Printf("data found: %s\n", data)
 			}
 		}(line)
