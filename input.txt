@@ -1,0 +1,6 @@
+{"location": "https://jsonplaceholder.typicode.com/posts/1"}
+{"location": "https://jsonplaceholder.typicode.com/users/1"}
+{"location": "https://api.github.com/repos/golang/go"}
+{"location": "https://reqres.in/api/users/1"}
+{"location": "https://jsonplaceholder.typicode.com/comments/1"}
+{"location": "https://foo.com"}
